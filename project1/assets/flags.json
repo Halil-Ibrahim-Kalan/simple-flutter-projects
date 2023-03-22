@@ -1,0 +1,82 @@
+[
+    {
+        "image": "flags/ar.png",
+        "name": "Arjantin"
+    },
+    {
+        "image": "flags/az.png",
+        "name": "Azerbaycan"
+    },
+    {
+        "image": "flags/ba.png",
+        "name": "Bosna Hersek"
+    },
+    {
+        "image": "flags/be.png",
+        "name": "Belçika"
+    },
+    {
+        "image": "flags/br.png",
+        "name": "Brazilya"
+    },
+    {
+        "image": "flags/ch.png",
+        "name": "İsviçre"
+    },
+    {
+        "image": "flags/cn.png",
+        "name": "Çin"
+    },
+    {
+        "image": "flags/es.png",
+        "name": "İspanya"
+    },
+    {
+        "image": "flags/fi.png",
+        "name": "Finlandiya"
+    },
+    {
+        "image": "flags/fr.png",
+        "name": "Fransa"
+    },
+    {
+        "image": "flags/gb.png",
+        "name": "Birleşik Krallık"
+    },
+    {
+        "image": "flags/il.png",
+        "name": "İsrail"
+    },
+    {
+        "image": "flags/jp.png",
+        "name": "Japonya"
+    },
+    {
+        "image": "flags/kr.png",
+        "name": "Güney Kore"
+    },
+    {
+        "image": "flags/no.png",
+        "name": "Norveç"
+    },
+    {
+        "image": "flags/pt.png",
+        "name": "Portekiz"
+    },
+    {
+        "image": "flags/ru.png",
+        "name": "Rusya"
+    },
+    {
+        "image": "flags/tr.png",
+        "name": "Türkiye"
+    },
+    {
+        "image": "flags/ua.png",
+        "name": "Ukranya"
+    },
+    {
+        "image": "flags/us.png",
+        "name": "ABD"
+    }
+]
